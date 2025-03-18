@@ -9,11 +9,11 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Amir Ali-Pour PhD"
+title                    : "Amir AliPour PhD"
 title_separator          : "-"
-name                     : &name "Amir Ali-Pour"
+name                     : &name "Amir AliPour"
 description              : &description "I am currently a postdoctoral researcher at Ecole de Technologie Superieure (ETS). I got my PhD in Computer Engineering in 2022 from Grenoble Alpes University in France. In 2023 I joined the Cloud-2-Edge lab at ETS. During my stay at ETS, I developed several research projects on Disributed Computing at the Edge. Currently I am focused on systematic optimizations to improve Edge orchestration for semi-decentralized federated learning."
-url                      : https://amir.ali-pour.github.io/portfolio # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : https://amir.ali-pour.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
