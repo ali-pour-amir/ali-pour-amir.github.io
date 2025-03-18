@@ -9,11 +9,11 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Amir AliPour PhD"
+title                    : "Amir's Homepage"
 title_separator          : "-"
-name                     : &name "Amir AliPour"
+name                     : &name "Amir Ali-Pour"
 description              : &description "I am currently a postdoctoral researcher at Ecole de Technologie Superieure (ETS). I got my PhD in Computer Engineering in 2022 from Grenoble Alpes University in France. In 2023 I joined the Cloud-2-Edge lab at ETS. During my stay at ETS, I developed several research projects on Disributed Computing at the Edge. Currently I am focused on systematic optimizations to improve Edge orchestration for semi-decentralized federated learning."
-url                      : https://amir.ali-pour.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : https://ali-pour-amir.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ali-pour-amir/ali-pour-amir.github.io"
 
@@ -23,11 +23,11 @@ repository               : "ali-pour-amir/ali-pour-amir.github.io"
 author:
   # Biographic information
   avatar           : "Amir_profile.png"
-  name             : "Amir"
+  name             : "Amir Ali-Pour"
   pronouns         : # example: "she/her"  
   bio              : "Postdoctoral Researcher"
   location         : "Montreal, Canada"
-  employer         : "Ecole de Technologie Superieure"
+  employer         : "Ecole de Technologie Superieure (ETS)"
   uri              : # URL
   email            : "amir.ali-pour@etsmtl.ca" 
 
@@ -45,7 +45,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "portfolio"
+  github           : #
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
