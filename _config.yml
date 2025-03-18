@@ -23,7 +23,7 @@ repository               : "ali-pour-amir/ali-pour-amir.github.io"
 author:
   # Biographic information
   avatar           : "profile_amir.jpg"
-  name             : "Amir Ali-Pour"
+  name             : "Amir Ali-Pour PhD"
   pronouns         : # example: "she/her"  
   bio              : "Postdoctoral Researcher"
   location         : "Montreal, Canada"
@@ -50,7 +50,7 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : #"bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -219,7 +219,7 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  portfolio:
+  projects:
     output: true
     permalink: /:collection/:path/
   talks:
@@ -265,10 +265,10 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _portfolio
+  # _projects
   - scope:
       path: ""
-      type: portfolio
+      type: projects
     values:
       layout: single
       author_profile: true
