@@ -15,7 +15,7 @@ name                     : &name "Amir AliPour"
 description              : &description "I am currently a postdoctoral researcher at Ecole de Technologie Superieure (ETS). I got my PhD in Computer Engineering in 2022 from Grenoble Alpes University in France. In 2023 I joined the Cloud-2-Edge lab at ETS. During my stay at ETS, I developed several research projects on Disributed Computing at the Edge. Currently I am focused on systematic optimizations to improve Edge orchestration for semi-decentralized federated learning."
 url                      : https://amir.ali-pour.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "ali-pour-amir/ali-pour-amir.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
