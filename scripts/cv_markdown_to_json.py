@@ -354,7 +354,7 @@ def parse_portfolio(portfolio_dir):
             # Extract portfolio details
             portfolio_entry = {
                 "name": front_matter.get('title', ''),
-                "category": front_matter.get('collection', 'portfolio'),
+                "category": front_matter.get('collection', 'projects'),
                 "date": front_matter.get('date', ''),
                 "url": front_matter.get('permalink', ''),
                 "description": front_matter.get('excerpt', '')
