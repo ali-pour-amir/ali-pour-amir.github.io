@@ -1,12 +1,12 @@
 ---
 permalink: /
-title: "About me & my work"
+title: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-I am a postdoctoral researcher at ETS. I work at the [Cloud-2-Edge (C2E)](https://www.juliengs.ca/) lab which is under supervision and management of [Dr. Julien Gascon-Samson](https://www.etsmtl.ca/en/study-at-ets/professors/jgsamson). I work on various projects related to distributed systems, distributed machine learning, and edge computing. Before joining C2E at ETS, I worked at SGS-Brightsight in Delft, the Netherlands, as a hardware security evaluator. I received my PhD in Computer Engineering from Grenoble Alpes University, Grenoble, France, in 2022, and my masters in Embedded Systems Security and Trust from Grenoble INP in 2019. I also have a B.Sc in Computer Software Engineering which I received from Azad University of Tehran (South Branch), Tehran, Iran, in 2016.   
+I am a postdoctoral researcher at ETS. I work at the [Cloud-2-Edge (C2E)](https://www.juliengs.ca/) lab which is under supervision and management of [Dr. Julien Gascon-Samson](https://www.etsmtl.ca/en/study-at-ets/professors/jgsamson). I work on various projects related to distributed systems, distributed machine learning, and edge computing. Before joining C2E at ETS, I worked at SGS-Brightsight in Delft, the Netherlands, as a hardware security evaluator. I received my PhD in Computer Engineering from Grenoble Alpes University, Grenoble, France, in 2022, and my masters in Embedded Systems Security and Trust from Grenoble INP in 2019. I also have a B.Sc in Computer Software Engineering which I received from Azad University of Tehran (South Branch), Tehran, Iran, in 2016.
 
 
 Early career as a researcher
