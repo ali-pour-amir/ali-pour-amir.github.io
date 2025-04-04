@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/PUFEnrollment
 excerpt: 'This paper is about introducing a methodology for PUF enrollment which uses machine learning to enroll the PUF-enabled systems.'
-date: 2022..
+date: 2022.05.25
 venue: 'MDPI Electronics'
 slidesurl: ''
 paperurl: 'https://www.mdpi.com/2079-9292/11/4/653'

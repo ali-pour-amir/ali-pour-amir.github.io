@@ -4,7 +4,7 @@ collection: publications
 category: conferences
 permalink: /publication/PUFML
 excerpt: 'This paper is about enabling secure, resilient and fast authentication and key exchange mechanism with PUF using machine learning.'
-date: 2022..
+date: 2022.07.04
 venue: 'ISVLSI 2022'
 slidesurl: ''
 paperurl: 'https://par.nsf.gov/servlets/purl/10356842'

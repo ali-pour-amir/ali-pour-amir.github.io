@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/leakage_DLSCA
 excerpt: 'This paper is about a leakage Model-flexible Deep Learning-based Side-channel Analysis.'
-date: 2024..
+date: 2024.07.09
 venue: 'IACR, Communications in Cryptology'
 slidesurl: ''
 paperurl: 'https://repository.ubn.ru.nl/bitstream/handle/2066/312204/312204.pdf?sequence=1'

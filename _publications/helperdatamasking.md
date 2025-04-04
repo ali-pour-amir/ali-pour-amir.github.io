@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/helperdatamasking
 excerpt: 'This paper is about how to secure the fuzzy extractor and error correction codes from adversaries who aim to enforce key values by manipulating the helper data. The paper proposes a countermeasure that masks the helper data to eliminate the efficacy of manipulation.'
-date: 2022..
+date: 2022.04.06
 venue: 'IEEE Access'
 slidesurl: ''
 paperurl: 'https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9750135'

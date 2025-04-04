@@ -4,7 +4,7 @@ collection: publications
 category: conferences
 permalink: /publication/nonprofiled_DLSCA
 excerpt: 'This paper is about a series of analysis on the efficacy of SCA countermeasures against some profiled and non-profiled deep learning based side channel analysis attacks.'
-date: 2020..
+date: 2020.3.9
 venue: 'DAT-E 2020'
 slidesurl: ''
 paperurl: 'https://past.date-conference.com/proceedings-archive/2020/pdf/0472.pdf'

@@ -4,7 +4,7 @@ collection: publications
 category: conferences
 permalink: /publication/sdflmq
 excerpt: 'This paper is about core features of the framework.'
-date: 2025..
+date: 2025.06.02
 venue: 'IPDPS 2025, PAISE workshop'
 slidesurl: ''
 paperurl: 'https://arxiv.org/pdf/2503.13624'
