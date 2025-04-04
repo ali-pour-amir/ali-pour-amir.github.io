@@ -1,6 +1,6 @@
 ---
 title: "MQTT Fleet Control"
-excerpt: "A Remote Procedure Call and System Monitoring Platform based on MQTT<br/><img src='/mqttfc_dashboard.png'>"
+excerpt: "A Remote Procedure Call and System Monitoring Platform based on MQTT<br/><img src='/images/mqttfc_dashboard.png'>"
 collection: Projects
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "SDFLMQ"
-excerpt: "A Framework for Semi-Decentrlized Federated Learning over MQTT Communication Protocol<br/><img src='/sdflmq_architecture.png'>"
+excerpt: "A Framework for Semi-Decentrlized Federated Learning over MQTT Communication Protocol<br/><img src='/images/sdflmq_architecture.png'>"
 collection: Projects
 ---
 

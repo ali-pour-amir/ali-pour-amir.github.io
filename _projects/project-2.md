@@ -1,6 +1,6 @@
 ---
 title: "FlAg SwaP"
-excerpt: "Distributing Federated Learning Aggregation using Particle Swarm-based Placement <br/><img src='/flagswap_architecture.png'>"
+excerpt: "Distributing Federated Learning Aggregation using Particle Swarm-based Placement <br/><img src='/images/flagswap_architecture.png'>"
 collection: Projects
 ---
 
