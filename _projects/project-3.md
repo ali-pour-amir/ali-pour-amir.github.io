@@ -1,6 +1,6 @@
 ---
 title: "Dynamic Clustering in SDFLMQ"
-excerpt: "Towards resource-efficient distributed aggregation using adaptive clustering in Semi-Decentralized Federated Learning<br/><img src='/sdflmq_architecture.png'>"
+excerpt: "Towards resource-efficient distributed aggregation using adaptive clustering in Semi-Decentralized Federated Learning<br/><img src='/dynamic_clustering.png'>"
 collection: Projects
 ---
 
