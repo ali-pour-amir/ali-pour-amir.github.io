@@ -1,7 +1,15 @@
 ---
-title: "Project item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "SDFLMQ"
+excerpt: "A Framework for Semi-Decentrlized Federated Learning over MQTT Communication Protocol<br/><img src='/sdflmq_architecture.png'>"
 collection: Projects
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+SDFLMQ is a framework I designed and co-developed that is aimed to enable constrained user-end and edge-level devices to perform federated learning. The framework follows a semi-decentralized hierarchical FL model. This model does not require a central server to perform aggregation. Instead, client machines that contribute to the FL process are elected to perform aggregation exclusively, or mututally with locally training the model. We employed MQTT protocol and exclusively used the Publish/Subscribe communication method to model the role association, arrangement, and re-arrangement in the framework. SDFLMQ is implemented in python, and the source code of the framework is available [here](https://github.com/ali-pour-amir/SDFLMQ) on github. It currently supports Pytorch only. The immidiate next versions of the framework however will be ML platform agnostic. Further information on the architecture of the framework and other related information can be found [here](https://arxiv.org/abs/2503.13624), an openly accessible paper about the framework. This paper is also accepted and to be presented in the renown [IPDPS 2025](https://www.ipdps.org/) conference, [PAISE](https://paise.org/) workshop.
+
+### SDFLMQ Components
+
+The core components of sdflmq are the client logic and the coordinator logic. The client logic contains all the modules and logic behind role arbitration between training and aggregation, and the actual aggregation of the model parameters. The coordinator logic contains the modules used for the orchestration of the clients' contribution as trainers and aggregators, session management, clustering, and load balancing. Both coordinator and client logic controllers are based on the MQTT Fleet Control's base executable logic, which publicizes certain internal functions of the base class and the classes that are inherited from it. 
+
+Aside from that, client modules can be found under the Core/Modules/Clint_Modules, which comprise the role_arbiter module and aggregator module. The coordinator modules also can be found  in Core/Modules/Coordinator_Modules, which comprise the clustering_engine, load_balancer, and session_manager. In addition to the coordinator modules, the optimizers are defined which are used on demand to perform role_association and clustering efficiently. The optimizers are independent scripts that are placed in Core/Modules/Coordinator_Modules/optimizers.
+
+A parameter server logic is also provided as an additional component under development, which can be used for model organizational purposes. The parameter server is a specification of MQTT fleet control's base executable class, which has a singular module used for global update synchronization. The functionality of sdflmq to run FL rounds however does not depend on this logic. Only the client logic and coordinator logic are essential to the core functionality of sdfmlq regarding core FL operation.

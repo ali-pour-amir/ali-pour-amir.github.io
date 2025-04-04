@@ -17,22 +17,3 @@ I started my research in Machine Learning and Deep Learning when I joined the LC
 Career as a software developer
 ======
 I was a software developer before beginning my career as a researcher. I majorly worked on video game projects as a part-time software engineer and gameplay programmer during my B.Sc studies in Tehran between 2011 to 2016. I was part of development teams working on small-sized video games mostly targetted mobile platforms at Karina mobile solutions in Tehran, Iran, and before that at Medrick game studio in Tehran Iran. I was a pineering member of an indie game development team during the years between 2012 to 2016, and worked on various indie titles for personal computers, and [a game development tool](https://www.youtube.com/watch?v=hLBACBFNxTE) to improve 2D game design in Unity3D game engine.
-
-Current Projects
-======
-
-Semi-Decentralized Federated Learning over MQTT
-------
-
-SDFLMQ is a framework I designed and co-developed that is aimed to enable constrained user-end and edge-level devices to perform federated learning. The framework follows a semi-decentralized hierarchical FL model. This model does not require a central server to perform aggregation. Instead, client machines that contribute to the FL process are elected to perform aggregation exclusively, or mututally with locally training the model. We employed MQTT protocol and exclusively used the Publish/Subscribe communication method to model the role association, arrangement, and re-arrangement in the framework. SDFLMQ is implemented in python, and the source code of the framework is available [here](https://github.com/ali-pour-amir/SDFLMQ) on github. It currently supports Pytorch only. The immidiate next versions of the framework however will be ML platform agnostic. Further information on the architecture of the framework and other related information can be found [here](https://arxiv.org/abs/2503.13624), an openly accessible paper about the framework. This paper is also accepted and to be presented in the renown [IPDPS 2025](https://www.ipdps.org/) conference, [PAISE](https://paise.org/) workshop. 
-
-
-Flag Swap: FL aggregation placement optimization using Swarm Intelligence
-------
-
-Flag Swap is a project developed to optimize the aggregation placement in a hierarchical model of SDFL. The project exclusively employs Particle Swarm Intteligence (PSO) as a black-box meta-heuristic optimization algorithm to progressively optimize the placement as the FL rounds progress. Flag Swap's simulation has been developed by Mr. Sadra Bekrani, and is available [here](https://github.com/10xComrade/PSO_FL_Sim) on github. Flag Swap is also integrated into [SDFLMQ source code](https://github.com/ali-pour-amir/SDFLMQ), and can be found in the [optimizers](https://github.com/ali-pour-amir/SDFLMQ/tree/main/Client/Core/Modules/Coordinator_Modules/optimizers) directory. A paper is written that explains the structure of the optimizer, and some early findings on the superior performance of the optimizer compared to conventional determinstic placement strategies. It will soon be publicized [here]().
-
-
-Towards resource-efficient distributed aggregation using adaptive clustering in Semi-Decentralized Federated Learning
-------
-This is an on-going project, with the aim to be employed in SDFLMQ to enable the framework with adaptability towards the changing population in FL. The adaptability is primarily aimed to be in the topology of the connections inter-cluster-wise and intra-cluster-wise. Information on the progress in this project, and the new findings will be published here. 
