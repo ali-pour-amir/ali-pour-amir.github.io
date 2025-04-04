@@ -4,7 +4,7 @@ collection: publications
 category: conferences
 permalink: /publication/mqtt2edgepeer
 excerpt: 'This paper is about a robust and scalable brokerless peer-to-peer edge middleware for topic-based publish/subscribe commnication model'
-date: 2015..
+date: 2024..
 venue: 'CCGRID 2024'
 slidesurl: ''
 paperurl: 'https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10701428&casa_token=x_inOeT1YWUAAAAA:NJre046vepm4Kdjpopumh6V4onKXgNlmj3NCgB1OWv_BXn3vp4zX9XKLwdyE_17cUCORidkPBTs'
