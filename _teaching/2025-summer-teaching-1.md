@@ -1,5 +1,5 @@
 ---
-title: "IND521 _ Internet of Things (IoT)"
+title: "IND520-1 _ Internet of Things (IoT)"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2025-summer-teaching-1
