@@ -21,7 +21,7 @@ My research interests are:
 - Authentication and Authorization in Agentic AI.
 - Data Privacy in Distributed Machine Learning.
 - Blackbox Heuristic and Meta-Heuristic Optimization methods.
-- Machine Learning at the Edge.
+- Federated Learning at the Edge.
 - Optimizing Task Placement and Scheduling in Federated Learning Ecosystems.
 - Task Automation with Agentic AI, MCP, and A2A protocols.
 
