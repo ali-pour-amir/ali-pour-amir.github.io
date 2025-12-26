@@ -23,7 +23,7 @@ My research interests are:
 - Blackbox Heuristic and Meta-Heuristic Optimization methods.
 - Machine Learning at the Edge.
 - Optimizing Task Placement and Scheduling in Federated Learning Ecosystems.
-- Task Automation with Agentic AI and A2A protocols.
+- Task Automation with Agentic AI, MCP, and A2A protocols.
 
 
 ---
