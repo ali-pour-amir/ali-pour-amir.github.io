@@ -19,12 +19,11 @@ My research interests are:
 - Security and Data Privacy in IoT.
 - Homomorphic Encryption and their application in Language Models.
 - Authentication and Authorization in Agentic AI.
+- Task Automation with Agentic AI, MCP, and A2A protocols.
 - Data Privacy in Distributed Machine Learning.
 - Blackbox Heuristic and Meta-Heuristic Optimization methods.
 - Federated Learning at the Edge.
 - Optimizing Task Placement and Scheduling in Federated Learning Ecosystems.
-- Task Automation with Agentic AI, MCP, and A2A protocols.
-
 
 ---
 
