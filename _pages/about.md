@@ -8,7 +8,18 @@ redirect_from:
 ---
 ### About Me
 
-I am a postdoctoral researcher at ÉTS Montréal, working in the [Cloud-2-Edge (C2E)](https://www.juliengs.ca/) lab under the supervision of [Dr. Julien Gascon-Samson](https://www.etsmtl.ca/en/study-at-ets/professors/jgsamson). My research focuses on distributed systems, distributed machine learning, and edge computing. Before joining C2E at ÉTS, I worked at SGS-Brightsight in Delft, the Netherlands, as a hardware security evaluator. I received my Ph.D. in Computer Engineering from Grenoble Alpes University, France, in 2022, and my M.Sc. in Embedded Systems Security and Trust from Grenoble INP in 2019. I also hold a B.Sc. in Computer Software Engineering from Azad University of Tehran (South Branch), Iran, earned in 2016.
+I currently hold an Adjunct Professor position at the Département de génie logiciel et des technologies de l'information (LOG-TI) at ÉTS Montréal. From 2023 to 2025, I worked as a postdoctoral researcher with the [Cloud-2-Edge (C2E)](https://www.juliengs.ca/) lab under management and supervision of [Dr. Julien Gascon-Samson](https://www.etsmtl.ca/en/study-at-ets/professors/jgsamson). I designed the IND-520 course on [Réalisation d’une solution IdO](https://www.etsmtl.ca/en/study/courses/ind520), and taught in the summer of 2025 at ÉTS.
+
+My research interests are:
+- Information Security
+- Applied Cryptography and Key-Exchange Protocols
+- Homomorphic Encryption and their application in Language Models
+- Authentication and Authorization in Agentic AI
+- Data Privacy in Distributed Machine Learning
+- Task management and system optimization in Federated Learning ecosystems
+- Machine Learning at the Edge
+- Heuristic and Meta-Heuristic Optimization methods
+- 
 
 ---
 
