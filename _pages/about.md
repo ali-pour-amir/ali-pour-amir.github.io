@@ -8,7 +8,9 @@ redirect_from:
 ---
 ### About Me
 
-I currently hold an Adjunct Professor position at the Département de génie logiciel et des technologies de l'information (LOG-TI) at ÉTS Montréal. From 2023 to 2025, I worked as a postdoctoral researcher with the [Cloud-2-Edge (C2E)](https://www.juliengs.ca/) lab under management and supervision of [Dr. Julien Gascon-Samson](https://www.etsmtl.ca/en/study-at-ets/professors/jgsamson). I designed the IND-520 course on [Réalisation d’une solution IdO](https://www.etsmtl.ca/en/study/courses/ind520), and taught in the summer of 2025 at ÉTS.
+I currently hold an Adjunct Professor position at the Département de génie logiciel et des technologies de l'information (LOG-TI) at ÉTS Montréal. From late 2023 to 2025, I worked as a postdoctoral researcher with the [Cloud-2-Edge (C2E)](https://www.juliengs.ca/) lab under management and supervision of [Dr. Julien Gascon-Samson](https://www.etsmtl.ca/en/study-at-ets/professors/jgsamson). In 2023, I worked as security evaluator at [SGS-Brightsight](https://www.brightsight.com/) in Delft, the Netherlands.
+
+I designed the IND-520 course on [Réalisation d’une solution IdO](https://www.etsmtl.ca/en/study/courses/ind520), and taught in the summer of 2025 at ÉTS.
 
 My research interests are:
 - Information Security
