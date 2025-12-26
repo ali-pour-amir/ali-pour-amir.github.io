@@ -25,9 +25,9 @@ author:
   avatar           : "profile_amir.jpg"
   name             : "Amir Ali-Pour PhD"
   pronouns         : # example: "she/her"  
-  bio              : "Postdoctoral Researcher"
-  location         : "Montreal, Canada"
-  employer         : "École de technologie supérieure"
+  bio              : ""
+  location         : "Canada"
+  employer         : ""
   uri              : # URL
   email            : "amir.ali-pour@etsmtl.ca" 
 
