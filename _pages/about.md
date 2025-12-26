@@ -15,14 +15,14 @@ I designed the IND-520 course on [Réalisation d’une solution IdO](https://www
 
 My research interests are:
 - Information Security.
-- Applied Cryptography and Key-Exchange Protocols.
-- Security and Data Privacy in IoT.
+- Applied Cryptography and Key-Exchange Protocols. 
 - Homomorphic Encryption and their application in Language Models.
+- Data Privacy in Distributed Machine Learning.
+- Security and Data Privacy in IoT.
+- Federated Learning at the Edge.
 - Authentication and Authorization in Agentic AI.
 - Task Automation with Agentic AI, MCP, and A2A protocols.
-- Data Privacy in Distributed Machine Learning.
 - Blackbox Heuristic and Meta-Heuristic Optimization methods.
-- Federated Learning at the Edge.
 - Optimizing Task Placement and Scheduling in Federated Learning Ecosystems.
 
 ---
