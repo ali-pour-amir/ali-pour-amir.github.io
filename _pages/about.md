@@ -31,12 +31,10 @@ I worked for 4 years as a research intern and later a research and teaching assi
 
 During my Ph.D at [UGA](), I led several projects, including the development of a methodology for ML-based authentication and enrollment of Physically Unclonable Functions (PUFs), advancements in PUF modeling using transfer learning and subspace modeling, and the design of a lightweight authentication and key-exchange protocol for PUF-enabled embedded systems. 
 
-After completing my doctorate, I briefly worked at SGS-Brightsight, where I performed industrial-grade side-channel analysis and hardware verification, before joining ÉTS as a postdoctoral researcher in 2023.
-
 ---
 
 ### Career as a Software Developer
 
-Before embarking on my research career, I worked as a software developer, primarily focusing on video game development. Between 2011 and 2016, during my B.Sc. studies in Tehran, I worked part-time as a software engineer and gameplay programmer. I contributed to several small-scale mobile games at Karina Mobile Solutions and Medrick Game Studio, both based in Tehran.
+Before switching my career focus to research, I worked as a software developer, primarily focusing on video games. Between 2011 and 2016, during my B.Sc. studies in Tehran, I worked part-time as a software engineer and gameplay programmer. I contributed to several small-scale mobile games at Karina Mobile Solutions and Medrick Game Studio, both based in Tehran.
 
-I was also a founding member of an indie game development team during this period, working on various PC game titles and [developing a game design tool](https://www.youtube.com/watch?v=hLBACBFNxTE) to enhance 2D game creation in the Unity3D engine.
+I was also a founding member of an indie game development team during this period, working on various PC game titles and a game design tool to enhance 2D game creation in the Unity3D engine.
