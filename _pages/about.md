@@ -26,6 +26,7 @@ My research interests are:
 ---
 
 ### Early Career as a Researcher
+During my 2 years of postdoc work, I led the design and development in the [SDFLMQ](https://ali-pour-amir.github.io/projects/project-1/) project. SDFLMQ is a semi-decentralized federated learning framework that uses MQTT for communication and data exchange. SDFLMQ is designed to be lightweight, and suitable for constrained systems at the edge to perform FL at faster pace with marginal power consumption and memory cost. Aside to SDFLMQ, I collaborated in various other projects, including [FEDORA](https://ieeexplore.ieee.org/abstract/document/11115144) -- A Federated Ensemble Reinforcement Learning for DAG-based task offloading and resource allocation in MEC, and [MQTT2EdgePeer](https://ieeexplore.ieee.org/abstract/document/10701428) -- a Robust and Scalable Brokerless Peer-to-Peer Edge Middleware for Topic-Based Publish/Subscribe. I also served as the chair organizer of the [218 Colloquium: A workshop on the synergy between AI and Software Engineering](https://www.acfas.ca/archives/evenements/congres/activites/88828) at the well-known ACFAS 92nd Congress, in Montreal, Canada.
 
 I worked for 4 years as a research intern and later a research and teaching assistant at [LCIS](https://esisar.grenoble-inp.fr/en/research/lcis-laboratory). I worked on various subjects including deep learning-based side-channel analysis, and machine learning and deep learning techniques to improve cryptographic data processing for constrained cyber-physical systems.
 
