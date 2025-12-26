@@ -14,14 +14,17 @@ I currently hold an Adjunct Professor position at the [Département de génie lo
 I designed the IND-520 course on [Réalisation d’une solution IdO](https://www.etsmtl.ca/en/study/courses/ind520), and taught in the summer of 2025 at ÉTS.
 
 My research interests are:
-- Information Security
-- Applied Cryptography and Key-Exchange Protocols
-- Homomorphic Encryption and their application in Language Models
-- Authentication and Authorization in Agentic AI
-- Data Privacy in Distributed Machine Learning
-- Task Management and System Optimization in Federated Learning Ecosystems
-- Machine Learning at the Edge
-- Heuristic and Meta-Heuristic Optimization methods
+- Information Security.
+- Applied Cryptography and Key-Exchange Protocols.
+- Security and Data Privacy in IoT.
+- Homomorphic Encryption and their application in Language Models.
+- Authentication and Authorization in Agentic AI.
+- Data Privacy in Distributed Machine Learning.
+- Blackbox Heuristic and Meta-Heuristic Optimization methods.
+- Machine Learning at the Edge.
+- Task Management and System Optimization in Federated Learning Ecosystems.
+- Task Automation with Agentic AI and A2A protocols.
+
 
 ---
 
