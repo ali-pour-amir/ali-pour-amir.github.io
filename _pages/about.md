@@ -16,7 +16,7 @@ I designed the IND-520 course on [Réalisation d’une solution IdO](https://www
 My research interests are:
 - Information Security.
 - Applied Cryptography and Key-Exchange Protocols. 
-- Homomorphic Encryption and their application in Language Models.
+- Homomorphic Encryption and its application in Language Models.
 - Data Privacy in Distributed Machine Learning.
 - Federated Learning at the Edge.
 - Security and Data Privacy in IoT.
