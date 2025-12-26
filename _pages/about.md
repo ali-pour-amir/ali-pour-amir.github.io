@@ -16,7 +16,7 @@ My research interests are:
 - Homomorphic Encryption and their application in Language Models
 - Authentication and Authorization in Agentic AI
 - Data Privacy in Distributed Machine Learning
-- Task management and system optimization in Federated Learning ecosystems
+- Task Management and System Optimization in Federated Learning ecosystems
 - Machine Learning at the Edge
 - Heuristic and Meta-Heuristic Optimization methods
 - 
