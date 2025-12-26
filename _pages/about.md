@@ -22,7 +22,7 @@ My research interests are:
 - Data Privacy in Distributed Machine Learning.
 - Blackbox Heuristic and Meta-Heuristic Optimization methods.
 - Machine Learning at the Edge.
-- Task Management and System Optimization in Federated Learning Ecosystems.
+- Optimizing Task Placement and Scheduling in Federated Learning Ecosystems.
 - Task Automation with Agentic AI and A2A protocols.
 
 
