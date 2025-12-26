@@ -8,7 +8,8 @@ redirect_from:
 ---
 ### About Me
 
-I currently hold an Adjunct Professor position at the Département de génie logiciel et des technologies de l'information (LOG-TI) at ÉTS Montréal. From late 2023 to 2025, I worked as a postdoctoral researcher with the [Cloud-2-Edge (C2E)](https://www.juliengs.ca/) lab under management and supervision of [Dr. Julien Gascon-Samson](https://www.etsmtl.ca/en/study-at-ets/professors/jgsamson). In 2023, I worked as security evaluator at [SGS-Brightsight](https://www.brightsight.com/) in Delft, the Netherlands.
+I currently hold an Adjunct Professor position at the Département de génie logiciel et des technologies de l'information (LOG-TI) at ÉTS Montréal. From late 2023 to 2025, I worked as a postdoctoral researcher with the [Cloud-2-Edge (C2E)](https://www.juliengs.ca/) lab under management and supervision of [Dr. Julien Gascon-Samson](https://www.etsmtl.ca/en/study-at-ets/professors/jgsamson). In 2023, I worked as security evaluator at [SGS-Brightsight](https://www.brightsight.com/) in Delft, the Netherlands. I received my PhD in Nanoelectronics & Nanotechnology (equivalent to Computer Engineering in North America) in 2022 from [École doctorale
+Électronique, électrotechnique, automatique, traitement du signal](https://edeeats.univ-grenoble-alpes.fr/ecole-doctorale-electronique-electrotechnique-automatique-traitement-du-signal/ecole-doctorale-eeats-787822.kjsp) of [Grenoble Alpes University](https://www.univ-grenoble-alpes.fr/english/home-628540.kjsp).
 
 I designed the IND-520 course on [Réalisation d’une solution IdO](https://www.etsmtl.ca/en/study/courses/ind520), and taught in the summer of 2025 at ÉTS.
 
@@ -18,20 +19,17 @@ My research interests are:
 - Homomorphic Encryption and their application in Language Models
 - Authentication and Authorization in Agentic AI
 - Data Privacy in Distributed Machine Learning
-- Task Management and System Optimization in Federated Learning ecosystems
+- Task Management and System Optimization in Federated Learning Ecosystems
 - Machine Learning at the Edge
 - Heuristic and Meta-Heuristic Optimization methods
-- 
 
 ---
 
 ### Early Career as a Researcher
 
-I began my research journey in Machine Learning and Deep Learning as a master's intern at the LCIS laboratory in Valence, France. Before that, I briefly explored neuromorphic computing as a master’s research assistant at IUST, where I developed a growing interest in applying machine learning to embedded systems. 
+I worked for 4 years as a research intern and later a research and teaching assistant at [LCIS](https://esisar.grenoble-inp.fr/en/research/lcis-laboratory). I worked on various subjects including deep learning-based side-channel analysis, and machine learning and deep learning techniques to improve cryptographic data processing for constrained cyber-physical systems.
 
-At LCIS, I focused on developing and implementing side-channel analysis techniques based on deep learning for hardware security evaluations. This work was later presented at the DATE 2020 conference. Following my master's degree at Grenoble INP, I continued as a Ph.D. student in Computer Engineering at LCIS, where I concentrated on applying machine learning and deep learning techniques to improve cryptographic data processing for constrained cyber-physical systems.
-
-During my Ph.D., I led several projects, including the development of a methodology for ML-based authentication and enrollment of Physically Unclonable Functions (PUFs), advancements in PUF modeling using transfer learning and subspace modeling, and the design of a lightweight authentication and key-exchange protocol for PUF-enabled embedded systems. 
+During my Ph.D at [UGA](), I led several projects, including the development of a methodology for ML-based authentication and enrollment of Physically Unclonable Functions (PUFs), advancements in PUF modeling using transfer learning and subspace modeling, and the design of a lightweight authentication and key-exchange protocol for PUF-enabled embedded systems. 
 
 After completing my doctorate, I briefly worked at SGS-Brightsight, where I performed industrial-grade side-channel analysis and hardware verification, before joining ÉTS as a postdoctoral researcher in 2023.
 
